@@ -1,13 +1,3 @@
-# Celeste Template
+# course-101-0250-00 website
 
-Based on the wonderful [Celeste](https://github.com/nicoelayda/celeste) by @nicoelayda.
-
-## Development
-
-Any changes to the CSS should be made to the SCSS files in `_sass/` and compiled using `Sass.jl` as follows:
-
-```julia
-Sass.compile_file("style.scss", "../_css/celeste.min.css"; output_style = Sass.compressed)
-```
-
-All the `Franklin.jl` related changes are in `_sass/adjust.scss`
+The ETHZ course-101-0250-00 website's landing page. Visit it [here](https://pde-on-gpu.vaw.ethz.ch).
